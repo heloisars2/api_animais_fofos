@@ -1,0 +1,44 @@
+* {
+    background-color: rgba(186, 245, 201, 0.651); 
+}
+
+body {
+    color: #666666;
+    font-size: 15px;
+    font-family: "Rubik", sans-serif;
+}
+
+.animais-fofinhos{
+    display: block;
+    max-width: 100%;
+    max-width: 350px;
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(96, 156, 212);
+}
+
+h4 {
+    text-align: center;
+}
+
+button {
+    text-align: center;    
+
+    background: #8bf1b670;
+    border-radius: 0px;
+    width: 100%;
+    padding: 8px 15px;
+    margin: 5px 0;
+}
+
+
